@@ -12,7 +12,7 @@ Some small projects that I have developed with some courses or where I explore, 
     - Frequency Distributions
     - Visualizing Frequency Distributions 
     - Comparing Frequency Distributions
-- <img height="20" src="https://image.flaticon.com/icons/png/512/262/262830.png">[**Finding the Best Markets to Advertise In**](https://github.com/VitorSousa5/projects_sm/tree/main/Finding the Best Markets to Advertise In)
+- <img height="20" src="https://image.flaticon.com/icons/png/512/262/262830.png"> [**Finding the Best Markets to Advertise In**](https://github.com/VitorSousa5/projects_sm/tree/main/Finding the Best Markets to Advertise In)
 - In this project, I applied the concepts that I learn in the course [Statistics Intermediate: Averages and Variability](https://app.dataquest.io/view_cert/06Z0JC9THPSG6DPKFCEK/) of Dataquest, and I tried to find the best two markets to promote e-learning courses. In the course, and the project, I covered the following points:
   
   - Mean
@@ -20,12 +20,12 @@ Some small projects that I have developed with some courses or where I explore, 
     - Mode
     - Measures of Variability
     - Z-scores
-- <img height="20" src="https://image.flaticon.com/icons/png/128/1036/1036627.png">**Mobile App for Lottery Addiction**
+- <img height="20" src="https://image.flaticon.com/icons/png/128/1036/1036627.png"> **Mobile App for Lottery Addiction**
   - With the outcomes of the course [Probability: Fundamentals](https://app.dataquest.io/view_cert/QJ8O9HGPD1BDW91S67BT/) of Dataquest I develop set of functions that are mostly focused on calculation probabilities. The course and the project help me in:
     - Calculate theoretical and empirical probabilities
     - Use probability rules to solve probability problems
     - Use combinations and permutations
-- <img height="20" src="https://www.zyxel.com/library/assets/products/anti-spam/lic-cas_anti-spam_380x380.png">**Building a Spam Filter with Naive Bayes**
+- <img height="20" src="https://www.zyxel.com/library/assets/products/anti-spam/lic-cas_anti-spam_380x380.png"> **Building a Spam Filter with Naive Bayes**
   - With the concepts that I learned in course [Conditional Probability](https://app.dataquest.io/view_cert/WIQMG8V0ZO8SDZTARUJW/) from Dataquest I develop a Spam filter using Naive Bayes. In course I Learn: 
     - What is conditional probability
     - How to assign probabilities based on conditions
