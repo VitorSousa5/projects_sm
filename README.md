@@ -29,3 +29,4 @@ Some small projects that I have developed with some courses or where I explore, 
   - With the concepts that I learned in course [Conditional Probability](https://app.dataquest.io/view_cert/WIQMG8V0ZO8SDZTARUJW/) from Dataquest I develop a Spam filter using Naive Bayes. In course I Learn: 
     - What is conditional probability
     - How to assign probabilities based on conditions
+    - What is the standard notation for conditional probability
