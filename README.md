@@ -5,7 +5,7 @@ Some small projects that I have developed with some courses or where I explore, 
 
 ## List of projects:
 
-- <img height="20" src="https://drncvpyikhjv3.cloudfront.net/sites/180/2020/02/14094853/BRL-movies-Icon.png">  [Investigating Fandango Movie Ratings](https://github.com/VitorSousa5/projects_sm/tree/main/Investigating Fandango Movie Ratings))
+- <img height="20" src="https://drncvpyikhjv3.cloudfront.net/sites/180/2020/02/14094853/BRL-movies-Icon.png">  [Investigating Fandango Movie Ratings](https://github.com/VitorSousa5/projects_sm/tree/main/Investigating%20Fandango%20Movie%20Ratings)
 - In this project, I use some Statistical Fundamentals to investigate the Fandango Movie Ratings. This project was a development after the end of the [Statistics Fundamentals](https://app.dataquest.io/view_cert/7Z0SYDIV0Z08LX0CEVN7/) of Dataquest. In this course I have covered the following points:
     - Sampling
     - Variables in Statistics
