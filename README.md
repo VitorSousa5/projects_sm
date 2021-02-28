@@ -1,4 +1,7 @@
 # projects_sm
+
+
+
 Some small projects that I have developed with some courses or where I explore, in a more focused way, some specific technology or approach.
 
 ## List of projects:
@@ -28,3 +31,9 @@ Some small projects that I have developed with some courses or where I explore, 
     - What is conditional probability
     - How to assign probabilities based on conditions
     - What is the standard notation for conditional probability
+
+- <img height="20" src="https://cdn.vox-cdn.com/thumbor/R9GBPTpIQ-4y4gc--CYTBi_r4nE=/0x0:4800x2700/1200x800/filters:focal(2016x966:2784x1734)/cdn.vox-cdn.com/uploads/chorus_image/image/66101775/jeopardy.0.jpg"> [**Winning Jeopardy**](https://github.com/VitorSousa5/projects_sm/tree/main/Winning%20Jeopardy)
+  - In this project I apply the concepts that I learned in course [**Hypothesis Testing**](https://app.dataquest.io/view_cert/R5BC4H9PIVPO713DPROJ/) from Dataquest. I work with a dataset of Jeopardy questions to figure out some patterns in the questions that could help you win. The major competences that I gain during the course and the project where: 
+    - How hypothesis testing works
+    - How statistical significance and hypothesis testing are related
+
